@@ -1,0 +1,4 @@
+name: SquirrelGuild
+version: '${project.version}'
+main: kr.squirrel.guild.Main
+api-version: 1.19

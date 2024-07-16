@@ -1,0 +1,6 @@
+NONE_SPACE: "§c현재 이용 가능한 길드런 맵이 없습니다"
+ALREADY_PLAYING: "§c길드에서 이미 플레이중입니다"
+ALREADY_FULL: "§c4명 모두 찼습니다"
+
+END_GAME: "§f<guild>길드가 길드런에서 승리했습니다"
+END_GAME_WITH_DRAW: "§f길드런이 비겼습니다"
