@@ -3,8 +3,8 @@
 길드 업데이트 v1.1
 
 새로 생긴 파일
-GuildShopManagementCommand.java
-GuildShopContainer.java
+GuildShopManagementCommand.java / 
+GuildShopContainer.java / 
 GuildShopManagementContainer.java
 
 
